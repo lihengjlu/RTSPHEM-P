@@ -7,5 +7,5 @@ First, make sure you have IPhreeqc (https://water.usgs.gov/water-resources/softw
 The script file is in the "MainProgram" file. The post-processing tool mainly uses ParaView.
 
 ## How to use
-Li, H. (2023). RTSPHEM-P: July 19, 2023 Release (Version 2) [Software]. Zenodo. https://doi.org/10.5281/zenodo.8163785
-Li, H., Wang, F., He, Q., Wang, Y., Yuan, Y., & Feng, G. (2024). An improved micro–macro model of multicomponent reactive transport for multimineral systems. Journal of Hydrology, 630, 130764. https://doi.org/10.1016/j.jhydrol.2024.130764
+Li, H. (2023). RTSPHEM-P: July 19, 2023 Release (Version 2) [Software]. Zenodo. https://doi.org/10.5281/zenodo.8163785.
+Li, H., Wang, F., He, Q., Wang, Y., Yuan, Y., & Feng, G. (2024). An improved micro–macro model of multicomponent reactive transport for multimineral systems. Journal of Hydrology, 630, 130764. https://doi.org/10.1016/j.jhydrol.2024.130764.
